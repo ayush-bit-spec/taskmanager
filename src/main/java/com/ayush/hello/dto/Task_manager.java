@@ -16,5 +16,5 @@ public class Task_manager {
     public String Name;
     public String Content;
     public LocalDateTime date;
-
+    public int y;
 }
